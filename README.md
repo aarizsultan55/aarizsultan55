@@ -9,7 +9,6 @@
 ### 🛠️ Tools & Technologies
 
 - **Languages:**
-- https://icons8.com/icon/13441/python
 -  Python, C, C++ 
 - **AI & Data Science:** NumPy, Pandas, Matplotlib *(as you learn them)*
 - **Developer Tools:** Git, GitHub, Codex
@@ -23,6 +22,8 @@ I've served as a school Head Boy and Deputy Head, organized events, and particip
 
 - Linkedin : https://www.linkedin.com/in/aariz-sultan-ab385535b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Email : aariz.sultan85@gmail.com
+- X : https://img.shields.io/twitter/follow/thisisaariz
+
 
 Always open to learning, collaborating, and building something meaningful.
 
