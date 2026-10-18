@@ -15,8 +15,8 @@
 - **AI & Data Science:** NumPy, Pandas, Matplotlib *(as you learn them)*
 - **Developer Tools:** Git, GitHub, Codex
 - **Creative Tools:**
-<img width="100" height="100" src="https://img.icons8.com/plasticine/100/davinci-resolve.png" alt="davinci-resolve"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/> 
-
+- 
+<img width="100" height="100" src="https://img.icons8.com/plasticine/100/davinci-resolve.png" alt="davinci-resolve"/> <img width="96" height="96" src="https://img.icons8.com/color/96/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
 ### 🏎️ Beyond the Code
 
 I've served as a school Head Boy and Deputy Head, organized events, and participated in football school team tournaments in the UAE. Outside tech, I'm into cars, motorsports, content creation, and buisness.
