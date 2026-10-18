@@ -12,7 +12,11 @@
  
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
   
-- **AI & Data Science:** NumPy, Pandas, Matplotlib *(as you learn them)*
+- **AI & Data Science:**
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+
+
 - **Developer Tools:** Git, GitHub, Codex
 - **Creative Tools:**
   
