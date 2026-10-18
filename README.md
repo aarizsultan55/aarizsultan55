@@ -17,7 +17,10 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
 
 
-- **Developer Tools:** Git, GitHub, Codex
+- **Developer Tools:**
+
+<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+
 - **Creative Tools:**
   
 <img width="48" height="48" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
