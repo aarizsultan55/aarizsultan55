@@ -9,7 +9,9 @@
 ### 🛠️ Tools & Technologies
 
 - **Languages:**
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> 
+- 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+  
 - **AI & Data Science:** NumPy, Pandas, Matplotlib *(as you learn them)*
 - **Developer Tools:** Git, GitHub, Codex
 - **Creative Tools:** Da Vinci, Edits , Adobe Premier , Python, etc
