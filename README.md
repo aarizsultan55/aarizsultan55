@@ -8,7 +8,9 @@
 
 ### 🛠️ Tools & Technologies
 
-- **Languages:** Python, C, C++ 
+- **Languages:**
+- https://icons8.com/icon/13441/python
+-  Python, C, C++ 
 - **AI & Data Science:** NumPy, Pandas, Matplotlib *(as you learn them)*
 - **Developer Tools:** Git, GitHub, Codex
 - **Creative Tools:** Da Vinci, Edits , Adobe Premier , Python, etc
